@@ -1,7 +1,7 @@
 # cs225_support_files
 This is a rep about files that can help you with cs225.
 
-##HOW to use potd_loader:
+## HOW to use potd_loader:
 Hi! Thank for using this software to use this follow these steps:
 1) Download file from Prairelearn and put it in the same folder as this file
 2) Download and Run potd_loader.cpython-36, this will create config.json
